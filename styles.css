@@ -1,0 +1,35 @@
+body {
+    background-color: powderblue;
+  }
+  .h1 {
+    text-align: center;
+    color: blue;
+  }
+
+  .h2 {
+    color: brown
+  }
+
+  .large-green-text-center {
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
+    color: green;
+  }
+
+  .bold-text {
+    font-weight: bold;
+  }
+
+  .large-blue-text-center {
+    color: blue ;
+    font-size: 40px;
+    text-align: center;
+    
+  }
+  
+  .bold-text-center {
+    font-size: 50px;
+    text-align: right
+
+  }
